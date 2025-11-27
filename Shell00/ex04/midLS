@@ -1,0 +1,2 @@
+#!/bin/sh
+gls -p --time=birth -t -m
